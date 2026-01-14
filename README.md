@@ -66,8 +66,8 @@ I am a junior QA tester with experience in localization as a project manager.
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: *(add your link)*  
-- 📧 Email: *(optional)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/natali-arenas-338b0a54/)*  
+- 📧 Email: *(natali.arenaso7@gmail.com)*  
 
 Always open to learning, collaboration, and growing as a QA Tester.
                  
