@@ -25,10 +25,10 @@ I am a junior QA tester with experience in localization as a project manager.
 
 - **Manual Testing:** Functional, Regression, Exploratory  
 - **Test Design:** Test cases, test data, test documentation  
-- **Bug Tracking:** JIRA, Trello, Azure DevOps (or similar tools)  
+- **Bug Tracking:** JIRA, Trello  
 - **QA Processes:** SDLC, QA fundamentals, defect lifecycle  
-- **Agile:** Scrum, Kanban (basic understanding)  
-- **Data Validation:** Basic SQL (desirable)  
+- **Agile:** Scrum, Kanban 
+- **Data Validation:** SQL  
 - **Tools:** Microsoft Office, Google Docs & Sheets 
 
 ### Skills
